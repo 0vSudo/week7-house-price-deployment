@@ -1,8 +1,8 @@
-Flask
-joblib
-numpy<2.0
-pandas<2.2
+Flask==3.0.3
+joblib==1.4.2
+numpy==1.26.4
+pandas==2.1.4
 scikit-learn==1.4.2
-lightgbm
-requests
-streamlit
+lightgbm==4.3.0
+requests==2.32.3
+streamlit==1.37.1
