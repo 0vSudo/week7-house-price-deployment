@@ -228,6 +228,6 @@ If the project were taken further, a few useful next steps would be:
 ## Links
 
 - GitHub repository: `https://github.com/0vSudo/week7-house-price-deployment`
-- Deployed app/API: `ADD LINK HERE`
-- Demo video: `ADD LINK HERE`
-- LinkedIn post: `ADD LINK HERE`
+- Deployed app/API: `https://week7-house-price-deployment-cbnbtcmuvcdbjrpgrxwu5t.streamlit.app/`
+- Demo video: `https://drive.google.com/file/d/13qTpmFn8ajB_JF9-yeXY2g8ryLSIkrkD/view?usp=sharing`
+- LinkedIn post: `https://www.linkedin.com/posts/0vsudo_machinelearning-python-datascience-share-7494901178812715008-FVKs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABTjX48B9flT98XklVubYhegY4XHBUkgdwo`
